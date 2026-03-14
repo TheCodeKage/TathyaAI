@@ -1,0 +1,42 @@
+Medical:
+    URLs:
+
+    APIS:
+        PubMed API
+        WHO IRIS API
+        MedlinePlus Connect API
+
+Legal
+    URLs:
+
+    APIS:
+        IndianKanoon API
+        India Code API
+        eCourts API
+
+Finance
+    URLs:
+
+    APIs:
+        NSE/BSE Data APIs
+        RBI DBIE API
+        MCA21 API
+        Alpha Vantage
+
+Academic
+    URLs:
+
+    APIs:
+        Semantic Scholar API
+        CrossRef API
+        OpenAlex API
+        arXiv API
+
+General
+    URLs:
+
+    APIs:
+        Google Fact Check Tools API
+        Bing Search API / SerpAPI
+        Wikipedia API
+        Perplexity API
